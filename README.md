@@ -1,10 +1,6 @@
 Hello, I'm Larissa Santos 👋
 
-
-
-- 🔭 I wanna work on Front-end
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL 
-- 😄 Pronouns: she/her
+😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/itslarissayall">
