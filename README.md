@@ -1,22 +1,46 @@
-Hello, I'm Larissa Santos 👋
+👋 Hello, I'm Larissa Santos
 
-😄 Pronouns: she/her
+Full Stack Web Developer with a background in Civil Engineering and Systems Analysis and Development.
+I have solid experience in creating web applications and platforms, utilizing a wide range of technologies and tools. I enjoy solving problems and building solutions.
 
-<div align="center">
-  <a href="https://github.com/itslarissayall">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itslarissayall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslarissayall&layout=compact&langs_count=7&theme=dracula"/>
+🛠 Technologies and Tools
+<br/>
+Frontend: React.js, Next.js, JavaScript, TypeScript, Styled Components, Tailwind CSS, HTML
+<br/>
+Backend: Node.js, PHP
+<br/>
+Testing: Jest, Cypress
+<br/>
+DevOps: Docker, CI/CD
+<br/>
+Cloud: AWS, GCP
+<br/>
+CMS: WordPress (Headless)
+<br/>
+Database: SQL, NoSQL
+<br/>
+APIs: REST, GraphQL
+<br/>
+CSS Preprocessors: SASS, LESS
+<br/>
+Bundler: Webpack
+
+📚 Agile Methodologies:
+Active participant in all phases of the software development lifecycle, always focused on quality and continuous improvement.
+
+
+
+<div>
+  
+ [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itslarissayall&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
   
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  
-##
-   
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,jest,linux,postman,styledcomponents,vercel,mongodb,postgres" />
+</a>
+<br/>
+
 <div> 
    <a href="https://instagram.com/larissafssantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:larissasantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
