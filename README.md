@@ -4,18 +4,26 @@ Full Stack Web Developer with a background in Civil Engineering and Systems Anal
 I have solid experience in creating web applications and platforms, utilizing a wide range of technologies and tools. I enjoy solving problems and building solutions.
 
 🛠 Technologies and Tools
+<br/>
 Frontend: React.js, Next.js, JavaScript, TypeScript, Styled Components, Tailwind CSS, HTML
+<br/>
 Backend: Node.js, PHP
+<br/>
 Testing: Jest, Cypress
+<br/>
 DevOps: Docker, CI/CD
+<br/>
 Cloud: AWS, GCP
+<br/>
 CMS: WordPress (Headless)
+<br/>
 Database: SQL, NoSQL
+<br/>
 APIs: REST, GraphQL
+<br/>
 CSS Preprocessors: SASS, LESS
+<br/>
 Bundler: Webpack
-Performance: Performance optimization and Core Web Vitals
-SEO: SEO optimization
 
 📚 Agile Methodologies:
 Active participant in all phases of the software development lifecycle, always focused on quality and continuous improvement.
